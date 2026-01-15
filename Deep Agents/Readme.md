@@ -1,1 +1,1 @@
-
+In this Repo we have created Deep Agents and know the difference between a Basic Agent and a Depp agent and we came to the conclusion that Deep agents use Middlewear which help in tracking in between things and and can log all the details of the agents
